@@ -1,3 +1,2 @@
 Device Timestamp,Device,Serial Number,Record Type,Historic Glucose mg/dL,Scan Glucose mg/dL,Non-numeric Rapid-Acting Insulin,Rapid-Acting Insulin (units),Non-numeric Food,Carbohydrates (grams),Carbohydrates (servings),Non-numeric Long-Acting Insulin,Long-Acting Insulin (units),Notes,Strip Glucose mg/dL,Ketone mmol/L,Meal Insulin (units),Correction Insulin (units),User Change Insulin (units)
-2021-07-08 22:41:00,FreeStyle LibreLink,303B0541-873B-482B-926C-029EACBD249A,6,,,,,,,,,,,,,,,
-2021-07-08 22:41:00,FreeStyle LibreLink,303B0541-873B-482B-926C-029EACBD249A,6,,,,,,,,,,,,,,,
+2021-07-29 11:30:00,FreeStyle LibreLink,303B0541-873B-482B-926C-029EACBD249A,1,,260.0,,,,,,,,,,,,,

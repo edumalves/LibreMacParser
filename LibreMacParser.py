@@ -1,5 +1,4 @@
 import pandas as pd
-import datetime
 import dateparser as dp
 
 rawdata = pd.read_csv("EduardoAlves_glucose.csv", header=1, parse_dates=True, index_col='Device Timestamp', infer_datetime_format=True)
@@ -31,4 +30,3 @@ try:
 
 except IndexError:
     print("No new entries to process.")
-    
